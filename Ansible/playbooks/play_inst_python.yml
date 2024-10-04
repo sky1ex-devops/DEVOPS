@@ -1,0 +1,6 @@
+---
+
+- name: install ssh python nginx
+  hosts: [all]
+  roles: 
+  - python

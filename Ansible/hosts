@@ -1,0 +1,11 @@
+[websrv]
+vm1
+vm2
+
+[bdsrv]
+vm2
+vm4
+
+[tgn:srv]
+websrv
+bdsrv

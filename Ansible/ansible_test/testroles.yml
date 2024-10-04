@@ -1,0 +1,10 @@
+---
+- hosts:
+    - vm1
+    - vm2
+    - vm3
+    - vm4
+  roles:
+    - python
+  #  - nginx-test
+  #  - kay_ssh

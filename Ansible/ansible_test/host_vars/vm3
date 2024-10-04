@@ -1,0 +1,11 @@
+ansible_host: 127.0.0.1
+ansible_user: root
+ansible_port: 2222
+ansible_ssh_pass: rndssdnr
+
+
+siteslist:
+  - "www.test1.com"
+  - "www.test2.com"
+  - "www.test3.com"
+

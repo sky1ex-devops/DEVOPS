@@ -1,0 +1,6 @@
+#---
+#- name: pythonrestart
+#  service:
+#    name: "python3"
+#    state: "restarted"
+#  become: yes

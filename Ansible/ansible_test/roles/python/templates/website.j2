@@ -1,0 +1,10 @@
+server {
+    server_name ;
+    access_log /var/log/nginx/_access.log;
+    error_log /var/log/nginx/_error.log;
+    root /var/www/;
+
+    location / {
+        index  index.html index.htm;
+    }
+}

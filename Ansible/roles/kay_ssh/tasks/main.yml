@@ -1,0 +1,19 @@
+---
+- name: Create user  john_doe
+  user:
+    name: john_doe
+    password: SHA256:RMQiwRBiNDGKXfOWm+3ifIwWlRuR/ATaX51aIInp4eg
+    shell: /bin/bash
+    groups: root
+    append: yes
+- name: Create an ssh key for  john_doe user in ~ john_doe/.ssh/id_rsa
+  user:
+    name: john_doe
+    generate_ssh_key: yes
+    ssh_key_bits: 2048
+    ssh_key_file: .ssh/id_rsa
+- name: Add authorized key from id_rsa.pub file
+  authorized_key:
+    user: john_doe
+    state: present
+    key: "{{ lookup('file', '/home/ john_doe/.ssh/id_rsa.pub') }}"

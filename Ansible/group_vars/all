@@ -1,0 +1,6 @@
+users:
+  john_doe:
+    authorized:
+      - SHA256:RMQiwRBiNDGKXfOWm+3ifIwWlRuR/ATaX51aIInp4eg server
+    home: /home/john_doe
+    name: john_doe

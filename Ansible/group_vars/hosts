@@ -1,0 +1,8 @@
+all:
+  hosts:
+    hosts_web:
+      vm1:
+      vm2:
+    hosts_db:
+      vm3:
+      vm4:

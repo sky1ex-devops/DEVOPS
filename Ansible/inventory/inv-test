@@ -1,0 +1,12 @@
+all:
+  hosts:
+    hosts_web:
+      vm1: 
+        ansible_host: 172.17.0.2
+      vm2:
+        ansible_host: 172.17.0.3
+    hosts_db:
+      vm3:
+        ansible_host: 172.17.0.4
+      vm4:
+        ansible_host: 172.17.0.5

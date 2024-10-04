@@ -1,0 +1,46 @@
+---
+- name: For Deb-based.  
+  block: ### Deb-based ###
+  - name: Install nginx
+    apt:
+      pkg: nginx
+    become: yes
+
+  - name: Create dir for websites
+    file:
+      path: /var/www/
+      state: directory
+    become: yes
+    with_items: "{{ siteslist }}"
+
+  - name: Create nginx config files
+    template:
+      src: "website.j2"
+      dest: "/etc/nginx/sites-enabled/{{ item }}.conf"
+    with_items: "{{ siteslist }}"
+    become: yes
+    notify: nginxrestart
+  when: ansible_os_family == "Debian" or ansible_os_family == "Ubuntu"
+
+- name: For Centos  
+  block: ### CentOS ###
+  
+  - name: Install Nginx
+    dnf:
+      pkg: nginx
+    become: yes  
+
+  - name: Create dir for websites
+    file:
+      path: /var/www/
+      state: directory
+    become: yes
+    with_items: "{{ siteslist }}"
+
+  - name: Create nginx config files
+    template:
+      src: "website.j2"
+      dest: "/etc/nginx/conf.d/{{ item }}.conf"
+    with_items: "{{ siteslist }}"
+    become: yes
+  when: ansible_os_family == "CentOS" or ansible_os_family == "RedHat"

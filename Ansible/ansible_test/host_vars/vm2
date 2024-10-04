@@ -1,0 +1,13 @@
+ansible_ssh_host: 172.17.0.3
+
+ansible_ssh_user: root
+
+ansible_ssh_pass: toor
+
+ansible_become_pass: toor
+
+siteslist:
+  - "www.test1.com"
+  - "www.test2.com"
+  - "www.test3.com"
+

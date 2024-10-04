@@ -1,0 +1,5 @@
+[vm]
+  vm1 ansible_ssh_user=john_doe ansible_sudo_pass=<PASS>
+  vm2 ansible_ssh_user=john_doe ansible_sudo_pass=<PASS>
+  vm3 ansible_ssh_user=john_doe ansible_sudo_pass=<PASS>
+  vm4 ansible_ssh_user=john_doe ansible_sudo_pass=<PASS>
