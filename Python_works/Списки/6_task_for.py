@@ -1,10 +1,15 @@
-# Используем цикл for для поочередного выода значений из списка 
-magics = ['alice', 'devid', 'carolina']
-for magic in magics: # Берем поочередно значение из magics и сохраняем в переменной magic
-    print(f"{magic.title()}, that was a great trick") # выполняем вывод до последнего эоемента в списке
-    print(f"I can't wait to see your next trick, {magic.title()}\n")
-print("Thank you, everyone. That was a great magic show!")
+pizzas = ['chess', 'cicilij', 'gavai']
+for pizza in pizzas:
+    print(f"I like {pizza} pizza")
+print("\nAnd all pizzas too")
 
+for value in range(1,5): # с помощью range выведем числа от 1 до 4 
+    print(value)
 
- 1
- 
+print("\n ")
+
+for value in range(0,6): # с помощью range выведем числа от 0 до 5
+    print(value)
+
+numb = list(range(1,6))
+print(numb)
