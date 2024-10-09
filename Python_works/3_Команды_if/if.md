@@ -19,6 +19,8 @@
 * [(age_0 >= 21 or age_1 == 18) ](./1_if.py) -  true - одно или оба уловий совпали
 #### in
 * [(f"\n{'mushrooms' in reqlists}")](./1_if.py) -  true - если значение 'mushrooms' входит в список
+* [if user NOT IN favorite_languages.keys():  ](./1_if.py) -  true - если значение  не входит ...
+
 #### if-elif-else
 * [if-elif-else](./1_if.py) - если if - felse, проверяем elif. Если if и elif - false, выполняем - else.
   > * Код может содержать сколько угодно боков elif 
