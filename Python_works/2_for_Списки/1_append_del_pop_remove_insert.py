@@ -31,7 +31,7 @@ del motos[2]
 print(motos)
 
 # удаление методом pop
-popped_motos = motos.pop() # удаляет последнее значение из списка
+popped_motos = motos.pop() # удаляет последний элемент из списка
 print(motos)
 print(popped_motos)
 list_purchased = motos.pop()
