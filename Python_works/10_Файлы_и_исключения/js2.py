@@ -20,6 +20,7 @@ def get_stored_username():
         return None 
     else:
         return username
+    
 def get_new_username():
     """Запрашивает новое имя пользователя"""
     username = input(" Имя: ")
