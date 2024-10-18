@@ -14,8 +14,6 @@ def submit():
  # return f'{mess}'
   return render_template(f"base.html", result=mess) 
 
-@app.route("/")
-def going():
 
 if __name__ == "__main__": 
     app.run(debug=True) # Выполнять программу пока нет ошибок
