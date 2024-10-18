@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  consul:
+    container_name: consul
+    build: consul
+    image: hashicorp/consul
+    ports:
+      - "8500:8500" 
