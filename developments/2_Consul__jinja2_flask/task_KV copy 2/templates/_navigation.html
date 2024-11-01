@@ -1,0 +1,7 @@
+{# templates/_navigation.html #}
+
+<nav>
+{% for k in ktl_root %}
+  <a href="{{ url_for(k) }}">{{ k }}</a>
+{% endfor %}
+</nav>

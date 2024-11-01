@@ -1,0 +1,16 @@
+{# templates/_navigation.html #}
+
+<nav>
+  <form method="post" action="root">
+  <p>
+
+  <button type="sumbit" name="tap_fl" value="root" >root</button>
+  </form>
+  <form method="post" action="/folders">
+  
+{% for f in dir_folder %}
+  <button type="sumbit" name="tap_fl" value="{{ f }}" >{{ f }}</button>
+  <p></p>
+{% endfor %}
+  </form>
+</nav>

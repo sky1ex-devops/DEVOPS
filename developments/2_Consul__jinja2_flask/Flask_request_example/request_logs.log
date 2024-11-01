@@ -1,0 +1,21 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:werkzeug:127.0.0.1 - - [25/Oct/2024 16:44:57] code 400, message Bad request version ("¹\x81~\x9bî\x8aæÀ`\x89×;¿£\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2024 16:44:57] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03§®¦ÄêÇÀ|X¹\x0c\x13¬Kw\x91¬7iøDæ¤\x89þ¬Ëþ}ha) fY}\x9eû²\x0d\x0bb\x9d\x13-\x9aµ\x82Èû\x1f¹\x81~\x9bî\x8aæÀ`\x89×;¿£\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:werkzeug:127.0.0.1 - - [25/Oct/2024 16:45:38] code 400, message Bad request version ("µ\x97\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2024 16:45:38] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ãfÇçzýdÿ\x18)\x0e\x0e\x94!\\\x8bÆ\x06FÏ\x01\x13§µ¼àY\x07xô¾\x9c ê3ÎDl£#u\x1fløùõ\x9bÈ\x09"ÇÑ:Ø\x11¿Ãy\x84V£ø\x09µ\x97\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [25/Oct/2024 16:45:45] code 400, message Bad request version ("\x8f\x08\x94\x9fòâ~¬8\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2024 16:45:45] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03P\x0dQ-\x82¤aóÙVþ\x83+\x00t\x17\x04Ë^\x9d,mägÊ\x9e\x10\x08X\x95\x12d \x9d\x1f¹ôqòÈ91+àFè\x8b\x9a³<uô5\\¾\x1d\x8f\x08\x94\x9fòâ~¬8\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:werkzeug:127.0.0.1 - - [25/Oct/2024 16:47:21] code 400, message Bad request version ("5H¶®Ï¨&UcÌÃ(ÀzJ\x1bIágU#Û\x8cu\x7f\x84iyy5\x94\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2024 16:47:21] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x0c-\x81Å\x01àU\x19ÀwÃä\x1bâø¶ïÈcaÏ\x8f\x8a\x02§\x06¤ÂÍâ\x98^ \x1d5H¶®Ï¨&UcÌÃ(ÀzJ\x1bIágU#Û\x8cu\x7f\x84iyy5\x94\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [25/Oct/2024 16:47:27] code 400, message Bad request version (":m¶Àíõ\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2024 16:47:27] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÏJ÷¤'\x02Ô\x17I`¿%r\x01D¤¬´»Ì$«ì8Ó_Ô\x1e\x8c\x99$\x1c D2\x14©\x9f:Ë¥:ë~\x96?íÆIdÙ4×í\x8cò§`\x1f:m¶Àíõ\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [25/Oct/2024 16:47:31] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03s')
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2024 16:47:31] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03s[0m" HTTPStatus.BAD_REQUEST -

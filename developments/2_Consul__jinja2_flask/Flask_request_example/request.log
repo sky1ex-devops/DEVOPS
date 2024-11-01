@@ -1,0 +1,12 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 579-109-421
+ERROR:werkzeug:127.0.0.1 - - [25/Oct/2024 16:39:53] code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x19¸º÷\x8a'å")
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2024 16:39:53] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x19¸º÷\x8a'å[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:127.0.0.1 - - [25/Oct/2024 16:40:00] code 400, message Bad request version ("\x9a\x08Áª^\x8c'jéìù³¸!¹f'I\x03£\x9e¦öì\x94\x86~À\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2024 16:40:00] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03&ÛÁ°Eît\x07.´ë\\_è\x13d\x8f'°\x17ÎýCÕh­!ÛÔk\x1d² jXù\x85\x9a\x08Áª^\x8c'jéìù³¸!¹f'I\x03£\x9e¦öì\x94\x86~À\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug: * Detected change in '/home/lex/DEVOPS/Docker_works/Consul__jinja2_flask/Flask_request_example/app.py', reloading
+INFO:werkzeug: * Restarting with stat

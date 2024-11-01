@@ -1,0 +1,10 @@
+{# templates/_keys.html #}
+
+<nav>
+  <form method="post" action="/search">
+{% for k in dir_key %}
+  <button type="sumbit" name="name" value="{{ k }}" >{{ k }}</button>
+  <p></p>
+{% endfor %}
+  </form>
+</nav>

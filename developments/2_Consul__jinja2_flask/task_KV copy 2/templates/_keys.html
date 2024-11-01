@@ -1,0 +1,10 @@
+{# templates/_keys.html #}
+
+<nav>
+  <form method="post" action="/search">
+{% for vlroot in data_root %}
+  <button type="sumbit" name="name" value="{{ vlroot }}" >{{ vlroot }}</button>
+  <p></p>
+{% endfor %}
+  </form>
+</nav>

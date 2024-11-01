@@ -1,0 +1,183 @@
+{# templates/base.html #}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ title }}</title>
+  <link rel="icon" href="data:;base64,=">
+<style>
+.sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 300px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #111; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 12px;
+}
+
+.sidenav2 {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 300px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 305px;
+    background-color: #464646; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 12px;
+}
+
+/* The navigation menu links */
+.sidenav a {
+    padding: 1px 8px 1px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #fdfdfd;
+    display: block;
+}
+
+.sidenav h2 {
+    padding: 1px 8px 1px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #fdfdfd;
+    display: block;
+}
+
+.sidenav2 a {
+    padding: 1px 8px 1px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #fdfdfd;
+    display: block;
+}
+
+.sidenav2 h2 {
+    padding: 1px 8px 1px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #fdfdfd;
+    display: block;
+}
+
+.sidenav button {
+    padding: 1px 1px 1px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    border: medium none;
+	  background-image: none; 
+	  background: transparent;
+    display: block;
+    color: #fdfdfd;
+}
+
+.sidenav2 button {
+    padding: 1px 1px 1px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    border: medium none;
+	  background-image: none; 
+	  background: transparent;
+    display: block;
+    color: #fdfdfd;
+}
+
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav2 a:hover {
+    color: #f1f1f1;
+}
+
+/* Style page content */
+.main {
+    margin-left: 610px; /* Same as the width of the sidebar */
+    padding: 1px 15px;
+}
+.main2 {
+    margin-left: 610px; /* Same as the width of the sidebar */
+    padding: 1px 15px;
+}
+
+
+/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 5px;}
+    .sidenav a {font-size: 25px;}
+    .sidenav h2 {font-size: 25px;}
+    .sidenav2 {padding-top: 5px;}
+}
+</style>
+
+
+
+
+</head>
+
+<!-- Side navigation -->
+<div class="sidenav">
+  <h2>Group:</h2>
+  <form method="post" action="/search">
+    
+    <button type="sumbit" name="name" value="key1">./</button>
+    <p></p>
+    <button type="sumbit" name="name" value="key2">/folder1</button>
+    <p></p>
+    <button type="sumbit" name="name" value="key3">/folder2</button>
+    <p></p>
+    <button type="sumbit" name="name" value="key3">/folder3</button>
+    
+</form>
+</div>
+
+<div class="sidenav2">
+  <h2>Key:</h2>
+
+  <form method="post" action="/search">
+    
+      <button type="sumbit" name="name" value="key1">key1</button>
+      <p></p>
+      <button type="sumbit" name="name" value="key2">key2</button>
+      <p></p>
+      <button type="sumbit" name="name" value="key3">key3</button>
+      
+  </form>
+</div>
+
+<!-- Page content -->
+<div class="main">
+  <h1>Welcome to {{ title }}!</h1>
+
+
+  <h2>Поиск ключа: </h2>
+  <form method="post" action="/search">
+    <input type="text" name="name">
+    <input type="submit" value="Поиск">
+  </form>
+
+  <h3>Ключ: {{ messg }} </h3>
+  <h3>Значение: {{ result }}</h3>
+  <h2>Новое значение: </h2>
+
+</div>
+
+<div class="main2">
+
+  <form method="post" action="/search">
+    <input type="text" name="req">
+    <input type="submit" value="Записать">
+  </form>
+
+</div>
+
+
+
+
+</body>
+</html>
