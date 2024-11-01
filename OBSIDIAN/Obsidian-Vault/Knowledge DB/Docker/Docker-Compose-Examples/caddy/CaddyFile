@@ -1,4 +1,0 @@
-service.example.com {
-  encode zstd gzip
-  reverse_proxy nginx:80
-}

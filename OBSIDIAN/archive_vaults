@@ -1,1 +1,0 @@
- tar -czvf Brain.tar.gz Brain/ && tar -czvf Obsidian-Vault.tar.gz Obsidian-Vault/
