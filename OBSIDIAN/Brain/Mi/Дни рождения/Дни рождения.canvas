@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"5defd47be2558adb","type":"file","file":"Mi/Дни рождения/Февраль.md","x":-220,"y":-1880,"width":400,"height":443,"color":"5"},
+		{"id":"c7bfdf6a21776850","type":"file","file":"Mi/Дни рождения/Март.md","x":-1060,"y":-1414,"width":400,"height":443,"color":"4"},
+		{"id":"777474b6904b518f","type":"file","file":"Mi/Дни рождения/Апрель.md","x":-640,"y":-1414,"width":400,"height":443,"color":"4"},
+		{"id":"ed134a87dae43a25","type":"file","file":"Mi/Дни рождения/Май.md","x":-220,"y":-1414,"width":400,"height":443,"color":"4"},
+		{"id":"4981bc623ad0184c","type":"file","file":"Mi/Дни рождения/Июнь.md","x":-1060,"y":-949,"width":400,"height":443,"color":"3"},
+		{"id":"1a5c04fcf28f4fb1","type":"file","file":"Mi/Дни рождения/Июль.md","x":-640,"y":-949,"width":400,"height":443,"color":"3"},
+		{"id":"e529472cafe80d99","type":"file","file":"Mi/Дни рождения/Август.md","x":-220,"y":-949,"width":400,"height":443,"color":"3"},
+		{"id":"2f841097a6f65b5e","type":"file","file":"Mi/Дни рождения/Ноябрь.md","x":-220,"y":-483,"width":400,"height":443,"color":"2"},
+		{"id":"27c9eada17a86efa","type":"file","file":"Mi/Дни рождения/Декабрь.md","x":-1060,"y":-1880,"width":400,"height":443,"color":"5"},
+		{"id":"f17787018cd3b477","type":"file","file":"Mi/Дни рождения/Сентябрь.md","x":-1060,"y":-483,"width":400,"height":443,"color":"2"},
+		{"id":"293d67bcc5ae5460","type":"file","file":"Mi/Дни рождения/Январь.md","x":-640,"y":-1880,"width":400,"height":443,"color":"5"},
+		{"id":"8c05a90a48882a62","type":"file","file":"Mi/Дни рождения/Октябрь.md","x":-640,"y":-483,"width":400,"height":443,"color":"2"}
+	],
+	"edges":[]
+}

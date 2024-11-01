@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "675cd9e20ac9abc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9034a8f2977f30e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822581f97dbc996a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge DB/Git/3. Ветвление в Git/3.1 Ветвление в Git - О ветвлении в двух словах.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28a546127147226c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "baf3ba56aeefb867",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2125988696f0c3a7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "01450d7c758e5491",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "82df749b0d51df02",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d6b2b70105160ea9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4ad0ec5b5ef3b382",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Knowledge DB/Git/3. Ветвление в Git/3.1 Ветвление в Git - О ветвлении в двух словах.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7c716f40076f5263",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Knowledge DB/Git/3. Ветвление в Git/3.1 Ветвление в Git - О ветвлении в двух словах.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "25785c9631399174",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Knowledge DB/Git/3. Ветвление в Git/3.1 Ветвление в Git - О ветвлении в двух словах.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "workspaces:Пространства": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "baf3ba56aeefb867",
+  "lastOpenFiles": [
+    "Knowledge DB/Linux/Несколько буферов обмена в Linux.md",
+    "Knowledge DB/Git/1. Введение/1. Введение.md",
+    "Knowledge DB/Git/1. Введение/1.5 Введение - Установка Git.md",
+    "Knowledge DB/Linux/Идентификаторы процессов - пользователи и группы (2).md",
+    "Knowledge DB/Linux/Идентификаторы процессов - пользователи и группы.md",
+    "Knowledge DB/Шпаргалка по протоколам.md",
+    "Knowledge DB/Linux.md",
+    "Knowledge DB/Linux/Файл групп - etc group.md",
+    "Knowledge DB/Linux/Демоны в Linux.md",
+    "Knowledge DB/Linux",
+    "Knowledge DB/Console/Команда find.md",
+    "Knowledge DB/Console/Файлы паролей passwd и shadow.md",
+    "Knowledge DB/Файлы паролей passwd и shadow.md",
+    "Knowledge DB/Docker/Docker-Compose-Examples/grafana-monitoring/volume-data/influxdb/init/create-database.iql",
+    "Knowledge DB/Docker/Docker-Compose-Examples/grafana-monitoring/volume-data/telegraf/telegraf.conf",
+    "Knowledge DB/Docker/Docker-Compose-Examples/grafana-monitoring/volume-data/promtail/promtail-config.yml",
+    "Knowledge DB/Docker/Docker-Compose-Examples/grafana-monitoring/volume-data/loki/loki-config.yml",
+    "Knowledge DB/Docker/Docker-Compose-Examples/grafana-monitoring/volume-data/influxdb/influxdb.conf",
+    "Knowledge DB/Docker/Docker-Compose-Examples/grafana-monitoring/volume-data/influxdb/init",
+    "Knowledge DB/Docker/Docker-Compose-Examples/privatebin/configs/php.ini",
+    "Knowledge DB/Docker/Docker-Compose-Examples/privatebin/configs/nginx_sites_available_privatebin.conf",
+    "Knowledge DB/Docker/Docker-Compose-Examples/privatebin/configs/nginx.conf",
+    "Knowledge DB/Git/images/managed-team-3.png",
+    "Knowledge DB/Git/images/newrepoform.png",
+    "Knowledge DB/Git/images/remote-branches-5.png",
+    "Knowledge DB/Git/images/interesting-rebase-3.png",
+    "Knowledge DB/Git/images/rerere2.png",
+    "Knowledge DB/Git/images/orgs-01-page.png",
+    "Knowledge DB/Git/images/maint-06-unsubscribe.png",
+    "Knowledge DB/Git/images/branch-and-history.png",
+    "Knowledge DB/Git/images/replace2.png",
+    "Knowledge DB/Git/images/data-model-4.png",
+    "Knowledge DB/Git/9. Git и другие системы контроля версий/9. Git и другие системы контроля версий.md",
+    "Knowledge DB/Git/9. Git и другие системы контроля версий/9.1 Git и другие системы контроля версий - Git как клиент.md",
+    "Knowledge DB/Git/9. Git и другие системы контроля версий/9.2 Git и другие системы контроля версий - Переход на Git.md",
+    "Knowledge DB/Git/8. Настройка Git/8.1 Настройка Git - Конфигурация Git.md",
+    "Knowledge DB/Git/8. Настройка Git/8.2 Настройка Git - Атрибуты Git.md",
+    "Knowledge DB/Git/8. Настройка Git/8.4 Настройка Git - Пример принудительной политики Git.md",
+    "Knowledge DB/Git/8. Настройка Git/8. Настройка Git.md",
+    "Knowledge DB/Git/8. Настройка Git/8.3 Настройка Git - Хуки в Git.md",
+    "Knowledge DB/Git/7. Инструменты Git/7.3 Инструменты Git - Припрятывание и очистка.md",
+    "Knowledge DB/Git/7. Инструменты Git/7.7 Инструменты Git - Раскрытие тайн reset.md",
+    "Knowledge DB/Git/7. Инструменты Git/7.14 Инструменты Git - Хранилище учётных данных.md",
+    "Knowledge DB/Git/7. Инструменты Git/7.10 Инструменты Git - Обнаружение ошибок с помощью Git.md",
+    "Knowledge DB/Git/7. Инструменты Git/7.6 Инструменты Git - Перезапись истории.md",
+    "Knowledge DB/Git/7. Инструменты Git/7. Инструменты Git.md"
+  ]
+}

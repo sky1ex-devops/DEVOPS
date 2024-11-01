@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "6a7e2f5f4ecbff05",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e4dc1ecd26630a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f8047e25e4066b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEVOPS/HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7ab366f6e52d3c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEVOPS/Ansible/Ansible.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13e155c03023ac3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEVOPS/Flask.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b64c0a578f8a350",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43fbf2cc5c984c5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b78db3a7460dedd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6deb85eaef38f273",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f193943737c0d76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#нод",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de1615904f253606",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "17ac02ab0164cabb",
+    "type": "split",
+    "children": [
+      {
+        "id": "84c472faa002f7ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de002ed8d5387845",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DEVOPS/Flask.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1729ded10334fd61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DEVOPS/Flask.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7932e22873f09887",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a5a673788e7a13f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DEVOPS/Flask.md"
+              }
+            }
+          },
+          {
+            "id": "03a85a3676bb2bc0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b00bb1a2da5175e",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "be774c2b2a1c3c79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1303de06b3289088",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "janitor:Janitor: scan vault": false,
+      "floccus-bookmarks-to-markdown:Floccus Bookmarks to Markdown": false,
+      "gnome-terminal-loader:Gnome Terminal": false,
+      "gnome-terminal-loader:main.py (Gnome Terminal)": false,
+      "interactivity:Run Interactivity": false,
+      "auto-moc:AutoMOC": false,
+      "birthday-tracker:Track birthdays": false,
+      "birthday-tracker:Open year overview": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "13e155c03023ac3f",
+  "lastOpenFiles": [
+    "DEVOPS/Jinja2.md",
+    "DEVOPS/Flask.md",
+    "Mi/GUITAR/Лучше, Хуже (муз. и слова С.Гребнев).md",
+    "DEVOPS/Python/Материалы_конспекта/10_Файлы_и_исключения/10_Файлы_и_исключения.md",
+    "DEVOPS/Python/Материалы_конспекта/9_Классы/9-Классы.md",
+    "DEVOPS/Python/Конспект_Python.md",
+    "DEVOPS/Ansible/Ansible.md",
+    "DEVOPS/Словарь.md",
+    "DEVOPS/backend.md",
+    "DEVOPS/Python/Материалы_конспекта/3_4_fot_Списки/3_4_fot_Списки.md",
+    "DEVOPS/Ansible",
+    "DEVOPS/Python/Материалы_конспекта/1_2_Переменные_и_типы_данных/1_2_Переменные_и_типы_данных.md",
+    "DEVOPS/Consul.md",
+    "DEVOPS/API.md",
+    "DEVOPS/Ноды.md",
+    "DEVOPS/Postman.md",
+    "DEVOPS/Service_Discovery.md",
+    "DEVOPS/frontend.md",
+    "DEVOPS/Development",
+    "DEVOPS/HTML.md",
+    "DEVOPS/HTML-шаблон.md",
+    "DEVOPS/Python/Библиотека в Python.md",
+    "DEVOPS/HTTP.md",
+    "DEVOPS/Python/Материалы_конспекта/6_Словари/6_Словари.md",
+    "DEVOPS/Python/Материалы_конспекта/7_Ввод_данных_while/7_Ввод_данных_while.md",
+    "DEVOPS/Python/Материалы_конспекта/8_Функции/8_Функции.md",
+    "Mi/GUITAR/Записи/Лучше, Хуже (муз. и слова С.Гребнев).md",
+    "Mi/GUITAR/Записи",
+    "DEVOPS/Task/consul_jinja2_flask/docker-compose.yml",
+    "DEVOPS/Task/consul_jinja2_flask/test_task_jinja/templates/post1.html",
+    "DEVOPS/Task/consul_jinja2_flask/test_task_jinja/templates/base.html",
+    "DEVOPS/Task/consul_jinja2_flask/test_task_jinja/templates/base copy.html",
+    "DEVOPS/Task/consul_jinja2_flask/test_task_jinja/write_messages.py",
+    "DEVOPS/Task/consul_jinja2_flask/test_task_jinja/templates",
+    "DEVOPS/Task/consul_jinja2_flask/test_task_jinja/message_sandrine.txt",
+    "DEVOPS/Task/consul_jinja2_flask/Без названия.md",
+    "Mi/Дни рождения/Дни рождения.canvas",
+    "DEVOPS/_img/Pasted image 20241017165639.png",
+    "DEVOPS/_img/Pasted image 20241017163525.png",
+    "DEVOPS/_img/Pasted image 20241017123848.png",
+    "Pasted image 20241017123843.png",
+    "DEVOPS/_img/Pasted image 20241017120509.png",
+    "DEVOPS/Pasted image 20241017120422.png",
+    "Pasted image 20241017120347.png",
+    "Mi/GUITAR/Без названия.canvas",
+    "Mi/Без названия.canvas",
+    "Без названия.canvas",
+    "Python/7_Ввод_данных_while/Без названия.canvas"
+  ]
+}

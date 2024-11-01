@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "57dc974ed8459063",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1e9510b260615d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8012c4638922a1b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge DB/Linux/Демоны в Linux.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1b4ccb9189d2756a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge DB/DevOps/Что такое идемпотентность.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af1055786148311d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f16c5f1c8723e597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ae0650adc549a23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22fb479536746b09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "consul",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38dd0d2928c00eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge DB/Linux/Зомби процессы.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "890a8f19edd056b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "right": {
+    "id": "16004f7761b84881",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a7ad705a8e9d4fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e8bdc7fff26f2ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Knowledge DB/DevOps/Что такое идемпотентность.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f33fd7c5967aca5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowledge DB/DevOps/Что такое идемпотентность.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c9e1e4685a32fa7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Knowledge DB/DevOps/Что такое идемпотентность.md"
+              }
+            }
+          },
+          {
+            "id": "196846382306e9cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "canvas:Создать новый холст": false,
+      "workspaces:Пространства": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1b4ccb9189d2756a",
+  "lastOpenFiles": [
+    "Knowledge DB/DevOps/CI CD.md",
+    "Knowledge DB/DevOps/В чем разница между подом и контейнером.md",
+    "Knowledge DB/DevOps/Вопросы с собеседований DevOps.md",
+    "Knowledge DB/Kubernetes/Kubernetes — Open Standards (OCI, CRI, CNI, CSI, SMI, CPI).md",
+    "Knowledge DB/Docker/Docker.md",
+    "Knowledge DB/Linux/Демоны в Linux.md",
+    "Knowledge DB/Kubernetes/Kubernetes.md",
+    "Knowledge DB/Docker/Compose Commands.md",
+    "Knowledge DB/Linux/Зомби процессы.md",
+    "Knowledge DB/Docker/Cлои в DockerFile.md",
+    "Knowledge DB/Docker/Что такое тип сети host в Docker.md",
+    "Knowledge DB/Docker/Чем отличается COPY от ADD.md",
+    "Knowledge DB/Docker/Чем отличается CMD от ENTRYPOINT в DockerFile.md",
+    "Knowledge DB/Docker/Без какой инструкции не может существовать Dockerfile.md",
+    "Knowledge DB/DevOps/Что такое идемпотентность.md",
+    "Knowledge DB/DevOps/Что такое namespace.md",
+    "Knowledge DB/DevOps/Blue Green Deployment.md",
+    "Knowledge DB/DevOps/CI CD Workflow.md",
+    "Назначения утилит и программ.md",
+    "Knowledge DB/Git/2. Основы Git/2.2 Основы Git - Запись изменений в репозиторий.md",
+    "Knowledge DB/Git/2. Основы Git/2.1 Основы Git - Создание Git-репозитория.md",
+    "Knowledge DB/DevOps/\"Бюджет ошибок\".md",
+    "Knowledge DB/Docker/Docker Compose Examples.md",
+    "Knowledge DB/Console/Команда find.md",
+    "Wiki Взыскатора.md",
+    "Knowledge DB/WYSIWYG редакторы.md",
+    "CI",
+    "attachments/CI-CD-workflow.jpg",
+    "attachments/photo_2024-10-08_11-14-25.jpg",
+    "attachments/docker-layers.png.webp",
+    "Без названия",
+    "Knowledge DB/Network",
+    "Knowledge DB/Ansible",
+    "Knowledge DB/DevOps",
+    "Knowledge DB/SQL & noSQL",
+    "Knowledge DB/Kubernetes",
+    "attachments/protocols.gif",
+    "Knowledge DB/Git/images/account-settings.png",
+    "attachments/2023-07-23_1928490302.png",
+    "Knowledge DB/Linux",
+    "attachments/protocols.mp4",
+    "attachments/gif.gif",
+    "attachments/protocols_gif.mp4",
+    "Knowledge DB/Git/images/public-small-2.sync-conflict-20241002-132331-IVH4TFZ.png",
+    "Knowledge DB/Git/images/your-profile.png",
+    "Knowledge DB/Git/images/undomerge-start.png",
+    "archivebox.canvas",
+    "Без названия.canvas",
+    "Docker/Docker-Compose-Examples/archivebox/archivebox.canvas",
+    "Без названия 1.canvas",
+    "Lifecycle commands.canvas"
+  ]
+}

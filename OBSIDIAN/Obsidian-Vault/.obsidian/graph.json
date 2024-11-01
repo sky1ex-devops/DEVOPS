@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#git",
+      "color": {
+        "a": 1,
+        "rgb": 13899286
+      }
+    },
+    {
+      "query": "tag:#docker",
+      "color": {
+        "a": 1,
+        "rgb": 12528
+      }
+    },
+    {
+      "query": "tag:#docker-compose  ",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "tag:#console  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "tag:#network",
+      "color": {
+        "a": 1,
+        "rgb": 65450
+      }
+    },
+    {
+      "query": "tag:#linux",
+      "color": {
+        "a": 1,
+        "rgb": 6408959
+      }
+    },
+    {
+      "query": "tag:#ansible  ",
+      "color": {
+        "a": 1,
+        "rgb": 3669760
+      }
+    },
+    {
+      "query": "tag:#devops  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#sql  ",
+      "color": {
+        "a": 1,
+        "rgb": 6559097
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.8609375,
+  "lineSizeMultiplier": 1.96302083333333,
+  "collapse-forces": true,
+  "centerStrength": 0.0625,
+  "repelStrength": 11.25,
+  "linkStrength": 0.677083333333333,
+  "linkDistance": 265,
+  "scale": 0.08908137099806246,
+  "close": false
+}

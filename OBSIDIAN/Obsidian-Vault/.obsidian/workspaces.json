@@ -1,0 +1,293 @@
+{
+  "workspaces": {
+    "213": {
+      "main": {
+        "id": "57dc974ed8459063",
+        "type": "split",
+        "children": [
+          {
+            "id": "7dcf60fb3b61d8fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f5e77745fe3c0cd",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "af1055786148311d",
+        "type": "split",
+        "children": [
+          {
+            "id": "f16c5f1c8723e597",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8ae0650adc549a23",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "22fb479536746b09",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "890a8f19edd056b3",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "16004f7761b84881",
+        "type": "split",
+        "children": [
+          {
+            "id": "0a7ad705a8e9d4fc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4e8bdc7fff26f2ef",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f33fd7c5967aca5f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "27e56fa77e00528e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "9c9e1e4685a32fa7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "templates:Вставить шаблон": false,
+          "command-palette:Открыть палитру команд": false,
+          "daily-notes:Сегодняшняя заметка": false,
+          "canvas:Создать новый холст": false,
+          "workspaces:Пространства": false
+        }
+      },
+      "active": "9f5e77745fe3c0cd",
+      "mtime": "2024-09-25T17:42:19+03:00"
+    },
+    "232": {
+      "main": {
+        "id": "57dc974ed8459063",
+        "type": "split",
+        "children": [
+          {
+            "id": "7dcf60fb3b61d8fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f5e77745fe3c0cd",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "af1055786148311d",
+        "type": "split",
+        "children": [
+          {
+            "id": "f16c5f1c8723e597",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8ae0650adc549a23",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "22fb479536746b09",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "890a8f19edd056b3",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "16004f7761b84881",
+        "type": "split",
+        "children": [
+          {
+            "id": "0a7ad705a8e9d4fc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4e8bdc7fff26f2ef",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f33fd7c5967aca5f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "27e56fa77e00528e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "9c9e1e4685a32fa7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "templates:Вставить шаблон": false,
+          "command-palette:Открыть палитру команд": false,
+          "daily-notes:Сегодняшняя заметка": false,
+          "canvas:Создать новый холст": false,
+          "workspaces:Пространства": false
+        }
+      },
+      "active": "9f5e77745fe3c0cd",
+      "mtime": "2024-09-25T17:42:23+03:00"
+    }
+  },
+  "active": "232"
+}

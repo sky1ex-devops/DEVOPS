@@ -1,0 +1,9 @@
+{
+  "theme": "system",
+  "cssTheme": "Wasp",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "notice",
+    "image-center"
+  ]
+}

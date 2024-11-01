@@ -1,0 +1,12 @@
+{
+  "readableLineLength": false,
+  "spellcheck": false,
+  "propertiesInDocument": "source",
+  "useTab": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true,
+  "showRibbon": true,
+  "livePreview": false,
+  "defaultViewMode": "preview"
+}
